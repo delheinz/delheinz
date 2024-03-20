@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @delheinz
-- 👀 I’m interested in Mechanical Engineering and Computer Science
-- 🌱 I’m currently learning Python
 - 📫 How to reach me: jahelyucra137@gmail.com
 
 <!---
